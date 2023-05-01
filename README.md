@@ -1,8 +1,10 @@
 # getsecret.xyz
 
-A simple Go app to generate secrets
+A web app to generate cryptographically strong pseudorandom data.
 
 ## Usage
+
+```https://getsecret.xyz/{size_in_bytes}```
 
 - https://getsecret.xyz/16
 
