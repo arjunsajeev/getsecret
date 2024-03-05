@@ -1,14 +1,14 @@
-# getsecret.xyz
+# getsecret
 
 A web app to generate cryptographically strong pseudorandom data.
 
 ## Usage
 
-```https://getsecret.xyz/{size_in_bytes}```
+```https://getsecret.fly.dev/{size_in_bytes}```
 
-- https://getsecret.xyz/16
+- https://getsecret.fly.dev/16
 
-- https://getsecret.xyz/24
+- https://getsecret.fly.dev/24
 
 ## Related
 
